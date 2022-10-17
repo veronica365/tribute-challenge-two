@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgrey;
+}
+#img-div{
+    background-color: white;
+}
+#img-caption{
+    padding: 1rem ;
+}
+img{
+    /* width:100%; */
+    max-width:100%;
+    height: auto;
+    display:block;
+    margin: auto;
+  }
+  article{
+   
+    text-align: left;
+    max-width: 80%;
+    margin: 0 auto;
+  }
