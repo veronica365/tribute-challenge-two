@@ -1,27 +1,26 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-body{
-    background-color: lightgrey;
+body {
+  background: whitesmoke;
 }
-#img-div{
-    background-color: white;
+#img-div {
+  background-color: white;
+  border-radius: 6px;
 }
-#img-caption{
-    padding: 1rem ;
+#img-caption {
+  padding: 1rem;
 }
-img{
-    /* width:100%; */
-    max-width:100%;
-    height: auto;
-    display:block;
-    margin: auto;
-  }
-  article{
-   
-    text-align: left;
-    max-width: 80%;
-    margin: 0 auto;
-  }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+article {
+  text-align: left;
+  max-width: 80%;
+  margin: 0 auto;
+}
